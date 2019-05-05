@@ -21,10 +21,10 @@ class App extends Component {
               <Wave fill='#f79902'
                 paused={false}
                 options={{
-                  height: 20,
+                  height: 70,
                   amplitude: 30,
-                  speed: 0.34,
-                  points: 3
+                  speed: .5,
+                  points: 7
                 }}
               />
               <div className="header3">
